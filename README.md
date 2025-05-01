@@ -1,4 +1,4 @@
-# E-commerce-Dashboard : 
+# E-commerce-Dashboard
 
 This project presents a Power BI dashboard designed for an e-commerce platform. The dashboard helps stakeholders understand key business metrics such as revenue trends, sales by category, customer demographics, and product-level performance. It supports data-driven decision-making through clear and interactive visualizations.
 
